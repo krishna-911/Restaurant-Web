@@ -1,0 +1,19 @@
+{
+  "name": "app-node",
+  "version": "1.0.0",
+  "description": "Getting started with Node JS and Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon appp.js"
+  },
+  "author": "DKP",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
